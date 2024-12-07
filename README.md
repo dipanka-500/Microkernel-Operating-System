@@ -3,10 +3,16 @@
 
 
 Overview
+
+
 This project is a microkernel-based operating system developed from scratch using C, C++, and x86 Assembly. It features a minimalistic kernel design, enabling efficient CPU scheduling, process synchronization, and memory management tailored for resource-constrained embedded platforms.
 
 Features
+
+
 Microkernel Design:
+
+
 
 Modular architecture for ease of extension and debugging.
 Supports inter-process communication (IPC) for user and system processes.
